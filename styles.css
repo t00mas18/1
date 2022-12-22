@@ -1,0 +1,14 @@
+section {
+display: flex;
+  flex-flow: row wrap;
+  background-color: blue;
+  border: solid black 2px;
+}
+
+article{
+
+  background-color: white;
+  max-width: 33;
+ border: solid black 2px;
+}
+max-whidth
